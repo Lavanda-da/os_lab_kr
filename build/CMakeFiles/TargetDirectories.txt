@@ -1,5 +1,0 @@
-/home/irina/course_2/os_lab_kr/build/CMakeFiles/client.dir
-/home/irina/course_2/os_lab_kr/build/CMakeFiles/apidemon.dir
-/home/irina/course_2/os_lab_kr/build/CMakeFiles/server.dir
-/home/irina/course_2/os_lab_kr/build/CMakeFiles/edit_cache.dir
-/home/irina/course_2/os_lab_kr/build/CMakeFiles/rebuild_cache.dir
